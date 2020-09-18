@@ -1,2 +1,3 @@
 # table_pagination_js
-Tabela personalizável criada com Javascript e Jquery
+tabela personalizável criada com Javascript e Jquery
+tabela com paginação e pesquisa
